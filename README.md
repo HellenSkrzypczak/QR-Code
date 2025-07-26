@@ -39,6 +39,6 @@ Colors:
 - Trabalhar com max-width e margin auto para centralização
 
 🔗 Links
-[Link do projeto online (GitHub Pages)](https://github.com/HellenSkrzypczak/QR-Code)
+[Link do projeto online (GitHub Pages)](https://hellenskrzypczak.github.io/QR-Code/)
 
 
